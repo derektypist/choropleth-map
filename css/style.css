@@ -20,3 +20,11 @@ body {
     margin-bottom: 10px;
     color: lightblue;
 }
+
+/* Description */
+#description a {
+    text-decoration: none;
+    color: pink;
+    text-align: center;
+
+}
