@@ -42,3 +42,6 @@ Datasets
 [Wireframes](wireframes/wireframe-choropleth-map.png) are provided.  Taken from
 https://codepen.io/freeCodeCamp/full/EZKqza.
 
+## Features
+
+Allowing the user to get more information about the area when hovering over the area.
