@@ -20,6 +20,10 @@ svg {
     padding: 10px;
 }
 
+g {
+    color: pink;
+}
+
 /* Container */
 #container {
     display: flex;
