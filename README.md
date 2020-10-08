@@ -45,3 +45,7 @@ https://codepen.io/freeCodeCamp/full/EZKqza.
 ## Features
 
 Allowing the user to get more information about the area when hovering over the area.
+
+## Technologies
+
+Uses HTML5, CSS3, JavaScript and D3.
