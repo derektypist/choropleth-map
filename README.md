@@ -37,6 +37,8 @@ Datasets
 
 **US Education Data:** `https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/for_user_education.json`
 
+Fields include fips, state, area_name and bachelorsOrHigher
+
 **US County Data:** `https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/counties.json`
 
 [Wireframes](wireframes/wireframe-choropleth-map.png) are provided.  Taken from
@@ -58,3 +60,18 @@ code until all tests have passed.
 ## Deployment
 
 On GitHub Pages.
+
+## Credits
+
+### Content
+
+Did a Google Search.
+
+### Media
+
+US Education Data taken from `https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/for_user_education.json`
+US County Data taken from `https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/counties.json`
+
+### Acknowledgements
+
+freeCodeCamp
