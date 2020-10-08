@@ -75,3 +75,7 @@ US County Data taken from `https://cdn.freecodecamp.org/testable-projects-fcc/da
 ### Acknowledgements
 
 freeCodeCamp
+
+[YouTube Video](https://www.youtube.com/watch?v=ha1toFtBfF8) from Ganesh H.  Also the [Notion Website](https://www.notion.so/Visualize-Data-with-a-Choropleth-Map-9d91d46e78d4406abc6a0d36f9e089dc).
+
+This was included in the Description of the YouTube Video.  Accessed on 8 October 2020.
