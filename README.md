@@ -38,3 +38,7 @@ Datasets
 **US Education Data:** `https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/for_user_education.json`
 
 **US County Data:** `https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/counties.json`
+
+[Wireframes](wireframes/wireframe-choropleth-map.png) are provided.  Taken from
+https://codepen.io/freeCodeCamp/full/EZKqza.
+
