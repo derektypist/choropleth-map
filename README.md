@@ -49,3 +49,9 @@ Allowing the user to get more information about the area when hovering over the 
 ## Technologies
 
 Uses HTML5, CSS3, JavaScript and D3.
+
+## Testing
+
+Make sure all the user stories have been met.  If some or all the tests have failed, go back and edit the
+code until all tests have passed.
+
