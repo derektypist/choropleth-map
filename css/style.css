@@ -13,6 +13,26 @@ body {
     background-color: seagreen;
 }
 
+svg {
+    background-color: lightblue;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+/* Container */
+#container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+/* Canvas */
+#canvas {
+    min-height: 600px;
+    min-width: 950px;
+}
+
 /* Title */
 #title {
     font-size: 28px;
