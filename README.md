@@ -50,7 +50,8 @@ Allowing the user to get more information about the area when hovering over the 
 
 ## Technologies
 
-Uses HTML5, CSS3, JavaScript and D3.
+Uses HTML5, CSS3, JavaScript, D3 and Topojson (https://cdnjs.com/libraries/topojson).  Uses JSON Data.
+Other Technologies include Google Fonts.
 
 ## Testing
 
