@@ -12,7 +12,63 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js" integrity="sha512-4UKI/XKm3xrvJ6pZS5oTRvIQGIzZFoXR71rRBb1y2N+PbwAsKa5tPl2J6WvbEvwN3TxQCm8hMzsl/pO+82iRlg==" crossorigin="anonymous"></script>
 </head>
 <body>
-<!-- Set Up Title and Description -->
+<!-- Set Up Title -->
     <h2 id="title">United States Adult Education</h2>
+    <!-- Set Up Container -->
+    <section id="container">
+        <!-- Set Up Canvas-->
+        <svg id="canvas"></svg>
+
+        <!-- Set Up Right Side -->
+        <article id="rightside">
+            <!-- Set Up Tooltip -->
+            <article id="tooltip"></article>
+
+            <!-- Set Up Legend -->
+            <svg id="legend">
+            <!-- Set Up Legend Style - Less than 10% -->
+            <g>
+                <rect x="10" y="0" width="40" height="40" fill="red"></rect>
+                <text x="60" y="20" fill="purple">Up to 10%</text>
+            </g>
+
+            <!-- Set Up Legend Style - 10% to 20% -->
+            <g>
+                <rect x="10" y="40" width="40" height="40" fill="orangered"></rect>
+                <text x="60" y="60" fill="purple">10% to 20%</text>
+            </g>
+
+            <!-- Set Up Legend Style - 20% to 30% -->
+            <g>
+                <rect x="10" y="80" width="40" height="40" fill="orange"></rect>
+                <text x="60" y="100" fill="purple">20% to 30%</text>
+            </g>
+
+            <!-- Set Up Legend Style - 30% to 40% -->
+            <g>
+                <rect x="10" y="120" width="40" height="40" fill="lightgreen"></rect>
+                <text x="60" y="140" fill="purple">30% to 40%</text>
+            </g>
+
+            <!-- Set Up Legend Style - 40% to 50% -->
+            <g>
+                <rect x="10" y="160" width="40" height="40" fill="limegreen"></rect>
+                <text x="60" y="180" fill="purple">40% to 50%</text>
+            </g>
+
+            <!-- Set Up Legend Style - Over 50% -->
+            <g>
+                <rect x="10" y="200" width="40" height="40" fill="green"></rect>
+                <text x="60" y="220" fill="purple">Over 50%</text>
+            </g>
+
+            </svg>
+
+            <!-- Set Up Description -->
+
+
+
+
+    </section>
 </body>
 </html>
