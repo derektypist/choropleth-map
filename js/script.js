@@ -67,7 +67,7 @@ let drawMap = () => {
 };
 
 // Get JSON Data
-d3.json((countyURL).then(
+d3.json(countyURL).then(
     (data, error) => {
         if (error) {
             console.log(error);
@@ -89,5 +89,4 @@ d3.json((countyURL).then(
         }
     }
 
-)
 );
