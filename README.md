@@ -46,8 +46,8 @@ Colors for legend - bachelorsOrHigher
 * If percentage is no more than 10, set the color to `red`.
 * If percentage is between 10 and 20, set the color to `orange`.
 * If percentage is between 20 and 30, set the color to `yellow`.
-* If percentage is between 30 and 40, set the color to `lightgreen`.
-* If percentage is between 40 and 50, set the color to `limegreen`.
+* If percentage is between 30 and 40, set the color to `lawngreen`.
+* If percentage is between 40 and 50, set the color to `mediumseagreen`.
 * If percentage is over 50, set the color to `green`.
 
 [Wireframes](wireframes/wireframe-choropleth-map.png) are provided.  Taken from
@@ -65,7 +65,8 @@ Other Technologies include Google Fonts.
 ## Testing
 
 Make sure all the user stories have been met.  If some or all the tests have failed, go back and edit the
-code until all tests have passed.
+code until all tests have passed.  Use `<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>`
+above the `</html>`.  If all the tests have passed delete the link to testable projects.
 
 ## Deployment
 
