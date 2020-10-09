@@ -41,6 +41,18 @@ Fields include fips, state, area_name and bachelorsOrHigher
 
 **US County Data:** `https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/counties.json`
 
+Colors for legend - bachelorsOrHigher 
+
+* If percentage is no more than 10, set the color to `red`.
+* If percentage is between 10 and 20, set the color to `orange`.
+* If percentage is between 20 and 30, set the color to `yellow`.
+* If percentage is between 30 and 40, set the color to `lightgreen`.
+* If percentage is between 40 and 50, set the color to `limegreen`.
+* If percentage is over 50, set the color to `green`.
+
+
+
+
 [Wireframes](wireframes/wireframe-choropleth-map.png) are provided.  Taken from
 https://codepen.io/freeCodeCamp/full/EZKqza.
 
