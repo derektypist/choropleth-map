@@ -70,7 +70,8 @@ above the `</html>`.  If all the tests have passed delete the link to testable p
 
 ## Deployment
 
-On GitHub Pages.
+This project is deployed on [GitHub Pages](https://derektypist.github.io/choropleth-map), using the
+main branch.  To update any changes use the `git push` command.
 
 ## Credits
 
