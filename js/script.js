@@ -30,9 +30,9 @@ let drawMap = () => {
             } else if (percentage <= 30) {
                 return 'yellow';
             } else if (percentage <= 40) {
-                return 'lightgreen';
+                return 'lawngreen';
             } else if (percentage <= 50) {
-                return 'limegreen';
+                return 'mediumseagreen';
             } else {
                 return 'green';
             }
