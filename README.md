@@ -50,9 +50,6 @@ Colors for legend - bachelorsOrHigher
 * If percentage is between 40 and 50, set the color to `limegreen`.
 * If percentage is over 50, set the color to `green`.
 
-
-
-
 [Wireframes](wireframes/wireframe-choropleth-map.png) are provided.  Taken from
 https://codepen.io/freeCodeCamp/full/EZKqza.
 
@@ -94,3 +91,5 @@ freeCodeCamp
 This was included in the Description of the YouTube Video.  Accessed on 8 October 2020.
 
 CDNJS Libraries at https://cdnjs.com/libraries
+
+[USDA ERS](https://www.ers.usda.gov/data-products/county-level-data-sets/download-data.aspx)
